@@ -121,8 +121,6 @@
 <img src="https://upload-images.jianshu.io/upload_images/16810022-480134fc915f32cb.png?imageMogr2/auto-orient/strip|imageView2/2/w/860/format/webp">
 <img src="https://upload-images.jianshu.io/upload_images/16810022-907aae3b0f8dbe4d.png?imageMogr2/auto-orient/strip|imageView2/2/format/webp">
 </div>
-
-![](https://upload-images.jianshu.io/upload_images/16810022-907aae3b0f8dbe4d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 <div  align = center>
 <img src="https://images.gitee.com/uploads/images/2020/0903/153005_d0ccc35c_8014590.png">
 </div>
