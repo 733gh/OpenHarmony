@@ -6,7 +6,7 @@
 
 <p align = center>（目前也还在利用时间不断更新知识点）</p>
 
-给大家分享的资料包括 **Android学习PDF+架构视频+面试文档+源码笔记​，高级架构技术进阶脑图、Android开发面试专题资料，还有高级进阶架构资料** 
+给大家分享的资料包括 **Android学习PDF+架构视频+面试文档+学习笔记，高级架构技术进阶脑图、Android开发面试专题资料，还有高级进阶架构资料** 
 
 
 
@@ -118,8 +118,11 @@
 
 <div  align = center>
 <img src="https://images.gitee.com/uploads/images/2020/0903/152958_25726b87_8014590.png">
+<img src="https://upload-images.jianshu.io/upload_images/16810022-480134fc915f32cb.png?imageMogr2/auto-orient/strip|imageView2/2/w/860/format/webp">
+<img src="https://upload-images.jianshu.io/upload_images/16810022-907aae3b0f8dbe4d.png?imageMogr2/auto-orient/strip|imageView2/2/format/webp">
 </div>
 
+![](https://upload-images.jianshu.io/upload_images/16810022-907aae3b0f8dbe4d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 <div  align = center>
 <img src="https://images.gitee.com/uploads/images/2020/0903/153005_d0ccc35c_8014590.png">
 </div>
