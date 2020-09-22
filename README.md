@@ -1,11 +1,10 @@
 # 2020年最新Android架构视频+BAT面试专题PDF+学习笔记+学习路线图
 
-<div  align = center>
+<div align=center>
 <img src="https://images.gitee.com/uploads/images/2020/0903/145637_c1c45e98_8014590.png">
 </div>
+
 <p align = center>（目前也还在利用时间不断更新知识点）</p>
-
-
 
 给大家分享的资料包括 **Android学习PDF+架构视频+面试文档+源码笔记​，高级架构技术进阶脑图、Android开发面试专题资料，还有高级进阶架构资料** 
 
@@ -135,8 +134,8 @@
  
 **资料获取方式：
 [加2000人BAT技术交流群；点击群号：[849907537](https://jq.qq.com/?_wv=1027&k=LWRtQTWF)联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取 ]** 
+也可以直接加我QQ：1150901274 领取
 
 <div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/0903/153212_0c6d3622_8014590.png">
+<img src="QQ二维码.jpg">
 </div>
-也可以直接加我QQ：1150901274 领取
