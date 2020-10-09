@@ -39,10 +39,10 @@
 </div>
 
  **资料获取方式：
-[加2000人BAT技术交流群；点击群号：[849907537](https://jq.qq.com/?_wv=1027&k=LWRtQTWF)联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取 ]** 
+[加2000人BAT技术交流群；点击群号：[872206502](https://jq.qq.com/?_wv=1027&k=h536LTvD), 备注github,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取 ]** 
 
 <div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/0903/153212_0c6d3622_8014590.png">
+<img src="https://images.gitee.com/uploads/images/2020/1009/140329_72788f62_8014590.png">
 </div>
 
 ## 2. 2019一线互联网Android 三方源码面试题解析大全
@@ -52,10 +52,10 @@
 </div>
 
  **资料获取方式：
-[加2000人BAT技术交流群；点击群号：[849907537](https://jq.qq.com/?_wv=1027&k=LWRtQTWF)联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取 ]** 
+[加2000人BAT技术交流群；点击群号：[872206502](https://jq.qq.com/?_wv=1027&k=h536LTvD), 备注github,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取 ]** 
 
 <div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/0903/153212_0c6d3622_8014590.png">
+<img src="https://images.gitee.com/uploads/images/2020/1009/140329_72788f62_8014590.png">
 </div>
 
 ## 3. Android面试指导
@@ -66,10 +66,10 @@
 
 
  **资料获取方式：
-[加2000人BAT技术交流群；点击群号：[849907537](https://jq.qq.com/?_wv=1027&k=LWRtQTWF)联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取 ]** 
+[加2000人BAT技术交流群；点击群号：[872206502](https://jq.qq.com/?_wv=1027&k=h536LTvD), 备注github,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取 ]** 
 
 <div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/0903/153212_0c6d3622_8014590.png">
+<img src="https://images.gitee.com/uploads/images/2020/1009/140329_72788f62_8014590.png">
 </div>
 
 ## 4. 2019一线互联网Java面试题解析大全
@@ -79,10 +79,10 @@
 </div>
 
  **资料获取方式：
-[加2000人BAT技术交流群；点击群号：[849907537](https://jq.qq.com/?_wv=1027&k=LWRtQTWF)联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取 ]** 
+[加2000人BAT技术交流群；点击群号：[872206502](https://jq.qq.com/?_wv=1027&k=h536LTvD), 备注github,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取 ]** 
 
 <div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/0903/153212_0c6d3622_8014590.png">
+<img src="https://images.gitee.com/uploads/images/2020/1009/140329_72788f62_8014590.png">
 </div>
 
 ## 5. 2019一线互联网Android面试题解析大全
@@ -92,10 +92,10 @@
 </div>
 
  **资料获取方式：
-[加2000人BAT技术交流群；点击群号：[849907537](https://jq.qq.com/?_wv=1027&k=LWRtQTWF)联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取 ]** 
+[加2000人BAT技术交流群；点击群号：[872206502](https://jq.qq.com/?_wv=1027&k=h536LTvD), 备注github,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取 ]** 
 
 <div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/0903/153212_0c6d3622_8014590.png">
+<img src="https://images.gitee.com/uploads/images/2020/1009/140329_72788f62_8014590.png">
 </div>
 
 ## 6. 2019一线互联网Android Framework面试题解析大全
@@ -105,11 +105,16 @@
 </div>
 
  **资料获取方式：
-[加2000人BAT技术交流群；点击群号：[849907537](https://jq.qq.com/?_wv=1027&k=LWRtQTWF)联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取 ]** 
+[加2000人BAT技术交流群；点击群号：[872206502](https://jq.qq.com/?_wv=1027&k=h536LTvD), 备注github,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取 ]** 
 
 ## 音视频
 <div  align = center>
 <img src="https://images.gitee.com/uploads/images/2020/0903/163903_8d234976_8014590.png">
+</div>
+**[加2000人BAT技术交流群；点击群号：[872206502](https://jq.qq.com/?_wv=1027&k=h536LTvD), 备注github,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取 ]** 
+
+<div  align = center>
+<img src="https://images.gitee.com/uploads/images/2020/1009/140329_72788f62_8014590.png">
 </div>
 
 <div  align = center>
@@ -134,8 +139,7 @@
 </div>
  
 **资料获取方式：
-[加2000人BAT技术交流群；点击群号：[849907537](https://jq.qq.com/?_wv=1027&k=LWRtQTWF)联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取 ]** 
-也可以直接加我QQ：1150901274 领取
+[加2000人BAT技术交流群；点击群号：[872206502](https://jq.qq.com/?_wv=1027&k=h536LTvD), 备注github,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取 ]** ,也可以直接加我QQ：1150901274 领取
 
 <div  align = center>
 <img src="QQ二维码.jpg">
