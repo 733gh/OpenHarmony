@@ -111,7 +111,8 @@
 <div  align = center>
 <img src="https://images.gitee.com/uploads/images/2020/0903/163903_8d234976_8014590.png">
 </div>
-**资料获取方式：
+
+ **资料获取方式：
 [加2000人BAT技术交流群；点击群号：[872206502](https://jq.qq.com/?_wv=1027&k=h536LTvD), 备注github,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取 ]** 
 
 <div  align = center>
