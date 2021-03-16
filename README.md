@@ -145,5 +145,5 @@
 
 
 <div  align = center>
-<img src="QQ二维码.jpg">
+<img src="https://user-images.githubusercontent.com/68420976/111290851-837f6700-8681-11eb-940f-e79df23fa888.png">
 </div>
