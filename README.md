@@ -14,10 +14,10 @@
 
 希望能帮助大家学习提升进阶，也节省大家在网上搜索资料的时间来学习，也是可以分享给身边好友一起学习的！
 
-## 《对标“腾讯65W+"年薪Android高级工程师成长曲线》
+## 《对标“腾讯70W+"年薪Android高级工程师成长曲线》
 
 <div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/0903/150122_4e9d7264_8014590.png">
+<img src="https://user-images.githubusercontent.com/68420976/120893785-9d5c9480-c647-11eb-88e5-3e16cc2a5816.png">
 </div>
 
 ## 学习视频
