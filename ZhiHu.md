@@ -1,9 +1,8 @@
-# 2020年最新Android架构视频+BAT面试专题PDF+学习笔记+学习路线图
+# 2021年最新Android架构视频+BAT面试专题PDF+学习笔记+学习路线图
 
 <div align=center>
 <img src="https://images.gitee.com/uploads/images/2020/0903/145637_c1c45e98_8014590.png">
 </div>
-
 
 <p align = center>（目前也还在利用时间不断更新知识点）</p>
 
@@ -15,12 +14,11 @@
 
 希望能帮助大家学习提升进阶，也节省大家在网上搜索资料的时间来学习，也是可以分享给身边好友一起学习的！
 
-## 《对标“腾讯65W+"年薪Android高级工程师成长曲线》
+## 《对标“腾讯70W+"年薪Android高级工程师成长曲线》
 
 <div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/0903/150122_4e9d7264_8014590.png">
+<img src="https://user-images.githubusercontent.com/68420976/120893785-9d5c9480-c647-11eb-88e5-3e16cc2a5816.png">
 </div>
-
 
 ## 学习视频
 
@@ -28,13 +26,11 @@
 <img src="https://images.gitee.com/uploads/images/2020/0903/150257_bf2e62a3_8014590.png">
 </div>
 
-
 ## Android最新核心知识点大全
 
 <div  align = center>
 <img src="https://images.gitee.com/uploads/images/2020/0903/150307_b4c25629_8014590.png">
 </div>
-
 
 ## 1. 2020 Android复习资料汇总
 
@@ -43,12 +39,11 @@
 </div>
 
  **资料获取方式：
-[加2000人BAT技术交流群；点击群号：[872206502](https://jq.qq.com/?_wv=1027&k=h536LTvD), 备注：知乎,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取也可以直接加我QQ：1150901274 更方便第一时间领取哦 ]** 
+[加2000人BAT技术交流群；点击群号：[519844232](https://jq.qq.com/?_wv=1027&k=PfQYLFmn), 请备注得知渠道（如知乎、简书、CSDN等）,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取也可以直接加我QQ：1150901274 更方便第一时间领取哦 ]** 
 
 <div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/1009/140329_72788f62_8014590.png">
+<img src="https://user-images.githubusercontent.com/68420976/120616838-24650d80-c48c-11eb-932c-1619605ccf80.png">
 </div>
-
 
 ## 2. 2019一线互联网Android 三方源码面试题解析大全
 
@@ -57,12 +52,11 @@
 </div>
 
  **资料获取方式：
-[加2000人BAT技术交流群；点击群号：[872206502](https://jq.qq.com/?_wv=1027&k=h536LTvD), 备注：知乎,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取也可以直接加我QQ：1150901274 更方便第一时间领取哦 ]** 
+[加2000人BAT技术交流群；点击群号：[519844232](https://jq.qq.com/?_wv=1027&k=PfQYLFmn), 请备注得知渠道（如知乎、简书、CSDN等）,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取也可以直接加我QQ：1150901274 更方便第一时间领取哦 ]** 
 
 <div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/1009/140329_72788f62_8014590.png">
+<img src="https://user-images.githubusercontent.com/68420976/120616838-24650d80-c48c-11eb-932c-1619605ccf80.png">
 </div>
-
 
 ## 3. Android面试指导
 
@@ -71,14 +65,12 @@
 </div>
 
 
-
  **资料获取方式：
-[加2000人BAT技术交流群；点击群号：[872206502](https://jq.qq.com/?_wv=1027&k=h536LTvD), 备注：知乎,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取也可以直接加我QQ：1150901274 更方便第一时间领取哦 ]** 
+[加2000人BAT技术交流群；点击群号：[519844232](https://jq.qq.com/?_wv=1027&k=PfQYLFmn), 请备注得知渠道（如知乎、简书、CSDN等）,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取也可以直接加我QQ：1150901274 更方便第一时间领取哦 ]** 
 
 <div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/1009/140329_72788f62_8014590.png">
+<img src="https://user-images.githubusercontent.com/68420976/120616838-24650d80-c48c-11eb-932c-1619605ccf80.png">
 </div>
-
 
 ## 4. 2019一线互联网Java面试题解析大全
 
@@ -87,12 +79,11 @@
 </div>
 
  **资料获取方式：
-[加2000人BAT技术交流群；点击群号：[872206502](https://jq.qq.com/?_wv=1027&k=h536LTvD), 备注：知乎,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取也可以直接加我QQ：1150901274 更方便第一时间领取哦 ]** 
+[加2000人BAT技术交流群；点击群号：[519844232](https://jq.qq.com/?_wv=1027&k=PfQYLFmn), 请备注得知渠道（如知乎、简书、CSDN等）,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取也可以直接加我QQ：1150901274 更方便第一时间领取哦 ]** 
 
 <div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/1009/140329_72788f62_8014590.png">
+<img src="https://user-images.githubusercontent.com/68420976/120616838-24650d80-c48c-11eb-932c-1619605ccf80.png">
 </div>
-
 
 ## 5. 2019一线互联网Android面试题解析大全
 
@@ -101,12 +92,11 @@
 </div>
 
  **资料获取方式：
-[加2000人BAT技术交流群；点击群号：[872206502](https://jq.qq.com/?_wv=1027&k=h536LTvD), 备注：知乎,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取也可以直接加我QQ：1150901274 更方便第一时间领取哦 ]** 
+[加2000人BAT技术交流群；点击群号：[519844232](https://jq.qq.com/?_wv=1027&k=PfQYLFmn), 请备注得知渠道（如知乎、简书、CSDN等）,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取也可以直接加我QQ：1150901274 更方便第一时间领取哦 ]** 
 
 <div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/1009/140329_72788f62_8014590.png">
+<img src="https://user-images.githubusercontent.com/68420976/120616838-24650d80-c48c-11eb-932c-1619605ccf80.png">
 </div>
-
 
 ## 6. 2019一线互联网Android Framework面试题解析大全
 
@@ -115,26 +105,28 @@
 </div>
 
  **资料获取方式：
-[加2000人BAT技术交流群；点击群号：[872206502](https://jq.qq.com/?_wv=1027&k=h536LTvD), 备注：知乎,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取也可以直接加我QQ：1150901274 更方便第一时间领取哦 ]** 
+[加2000人BAT技术交流群；点击群号：[519844232](https://jq.qq.com/?_wv=1027&k=PfQYLFmn), 请备注得知渠道（如知乎、简书、CSDN等）,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取也可以直接加我QQ：1150901274 更方便第一时间领取哦 ]** 
+
+<div  align = center>
+<img src="https://user-images.githubusercontent.com/68420976/120616838-24650d80-c48c-11eb-932c-1619605ccf80.png">
+</div>
 
 ## 音视频
-
 <div  align = center>
 <img src="https://images.gitee.com/uploads/images/2020/0903/163903_8d234976_8014590.png">
 </div>
 
  **资料获取方式：
-[加2000人BAT技术交流群；点击群号：[872206502](https://jq.qq.com/?_wv=1027&k=h536LTvD), 备注：知乎,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取也可以直接加我QQ：1150901274 更方便第一时间领取哦 ]** 
+[加2000人BAT技术交流群；点击群号：[519844232](https://jq.qq.com/?_wv=1027&k=PfQYLFmn), 请备注得知渠道（如知乎、简书、CSDN等）,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取也可以直接加我QQ：1150901274 更方便第一时间领取哦 ]** 
 
 <div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/1009/140329_72788f62_8014590.png">
+<img src="https://user-images.githubusercontent.com/68420976/120616838-24650d80-c48c-11eb-932c-1619605ccf80.png">
 </div>
 
 
 <div  align = center>
 <img src="https://images.gitee.com/uploads/images/2020/0903/152929_bb135112_8014590.png">
 </div>
-
 
 <div  align = center>
 <img src="https://images.gitee.com/uploads/images/2020/0903/152958_25726b87_8014590.png">
@@ -145,19 +137,24 @@
 <img src="https://images.gitee.com/uploads/images/2020/0903/153005_d0ccc35c_8014590.png">
 </div>
 
-
 <div  align = center>
 <img src="https://images.gitee.com/uploads/images/2020/0903/153034_2e628117_8014590.png">
 </div>
 
-
 <div  align = center>
 <img src="https://images.gitee.com/uploads/images/2020/0903/153020_c653a849_8014590.png">
 </div>
-
-**资料获取方式：
-[加2000人BAT技术交流群；点击群号：[872206502](https://jq.qq.com/?_wv=1027&k=h536LTvD), 备注：知乎,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取也可以直接加我QQ：1150901274 更方便第一时间领取哦 ]** ,也可以直接加我QQ：1150901274 领取
+ 
+ **资料获取方式：
+[加2000人BAT技术交流群；点击群号：[519844232](https://jq.qq.com/?_wv=1027&k=PfQYLFmn), 请备注得知渠道（如知乎、简书、CSDN等）,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取也可以直接加我QQ：1150901274 更方便第一时间领取哦 ]** 
 
 <div  align = center>
-<img src="QQ二维码.jpg">
+
+ **QQ:1150901274**</br>
+
+ <img src="https://user-images.githubusercontent.com/68420976/111290851-837f6700-8681-11eb-940f-e79df23fa888.png">
+ 
+**微信：MNxiaona666**
+ 
+ <img src="https://user-images.githubusercontent.com/68420976/120615212-a0f6ec80-c48a-11eb-9b2f-9aab3d7782a6.png">
 </div>
