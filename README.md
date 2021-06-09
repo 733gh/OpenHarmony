@@ -32,6 +32,13 @@
 <img src="https://images.gitee.com/uploads/images/2020/0903/150307_b4c25629_8014590.png">
 </div>
 
+## 鸿蒙学习文档
+
+<div  align = center>
+<img src="https://user-images.githubusercontent.com/68420976/121311433-ffaee100-c936-11eb-9656-0ce4dcf81407.png">
+<img src="https://user-images.githubusercontent.com/68420976/121311639-2f5de900-c937-11eb-9188-82e648b0c065.png">
+</div>
+
 ## 1. 2020 Android复习资料汇总
 
 <div  align = center>
