@@ -1,7 +1,7 @@
 # 2021年最新Android架构视频+BAT面试专题PDF+学习笔记+学习路线图
 
 <div align=center>
-<img src="https://images.gitee.com/uploads/images/2020/0903/145637_c1c45e98_8014590.png">
+<img src="https://user-images.githubusercontent.com/68420976/129372209-1ac76c1f-b1bc-4c77-82ab-6f75897da3f2.png">
 </div>
 
 <p align = center>（目前也还在利用时间不断更新知识点）</p>
@@ -46,7 +46,7 @@
 ## 3. Android面试指导
 
 <div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/0903/151634_cba5a294_8014590.png">
+<img src="https://user-images.githubusercontent.com/68420976/129372341-8d2e3c79-9833-4ccb-9688-bc26cb0369ae.png">
 </div>
 
 ## 4.Jetpack 全家桶
@@ -112,30 +112,30 @@
 </div>
 
 <div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/0903/152929_bb135112_8014590.png">
+<img src="https://user-images.githubusercontent.com/68420976/129372460-697f3434-b323-4947-9800-07960762cb3b.png">
 </div>
 
 ## 学习视频
 
 <div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/0903/150257_bf2e62a3_8014590.png">
+<img src="https://user-images.githubusercontent.com/68420976/129372529-8b3cb944-7d01-47d4-9ecc-4dcfe24a27b8.png">
 </div>
 
 <div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/0903/152958_25726b87_8014590.png">
+<img src="https://user-images.githubusercontent.com/68420976/129372808-f90e9cfb-1a91-473c-a0bd-5d4dd01583fd.png">
 <img src="https://upload-images.jianshu.io/upload_images/16810022-480134fc915f32cb.png?imageMogr2/auto-orient/strip|imageView2/2/w/860/format/webp">
 <img src="https://upload-images.jianshu.io/upload_images/16810022-907aae3b0f8dbe4d.png?imageMogr2/auto-orient/strip|imageView2/2/format/webp">
 </div>
 <div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/0903/153005_d0ccc35c_8014590.png">
+<img src="https://user-images.githubusercontent.com/68420976/129373018-bc3c1615-1799-4967-baed-90f664cb698e.png">
 </div>
 
 <div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/0903/153034_2e628117_8014590.png">
+<img src="https://user-images.githubusercontent.com/68420976/129372809-eb318e22-840c-473c-a7cb-19fc65b24e34.png">
 </div>
 
 <div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/0903/153020_c653a849_8014590.png">
+<img src="https://user-images.githubusercontent.com/68420976/129372810-72cd2a24-c5e0-490a-9c56-024db8cac972.png">
 </div>
  
  **资料获取方式：**
