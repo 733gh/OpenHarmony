@@ -31,28 +31,13 @@
 <img src="https://user-images.githubusercontent.com/68420976/120616838-24650d80-c48c-11eb-932c-1619605ccf80.png">
 </div>
 
-
-## 学习视频
-
-<div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/0903/150257_bf2e62a3_8014590.png">
-</div>
-
-
-## 鸿蒙学习文档
+## 1.Android复习资料汇总（核心笔记篇）
 
 <div  align = center>
-<img src="https://user-images.githubusercontent.com/68420976/121311433-ffaee100-c936-11eb-9656-0ce4dcf81407.png">
-<img src="https://user-images.githubusercontent.com/68420976/121311639-2f5de900-c937-11eb-9188-82e648b0c065.png">
+<img src="https://user-images.githubusercontent.com/68420976/129316602-e1defe9d-0f2d-4a68-9977-0cf9c779dec4.png">
 </div>
 
-## 1. 2020 Android复习资料汇总
-
-<div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/0903/153630_d45f34d5_8014590.png">
-</div>
-
-## 2. Android 架构师必备手册
+## 2. Android 架构师必备
 
 <div  align = center>
 <img src="https://user-images.githubusercontent.com/68420976/129313140-f8facc69-12e4-476d-83ec-ab18058c3501.png">
@@ -76,9 +61,9 @@
 </div>
 
  **资料获取方式：**
-**+微信：MNxiaona666**
+**+：MNxiaona666**
 <div  align = center>
- <img src="https://user-images.githubusercontent.com/68420976/120615212-a0f6ec80-c48a-11eb-9b2f-9aab3d7782a6.png">
+ <img src="https://user-images.githubusercontent.com/68420976/120615212-a0f6ec80-c48a-11eb-9b2f-9aab3d7782a6.png" width=200px>
 </div> 
 
 ## 6.Android Framework精编内核解析
@@ -107,10 +92,17 @@
 <img src="https://user-images.githubusercontent.com/68420976/129315708-3f098221-7b14-4761-a5d2-4c1fa53b7544.png">
 </div>
 
+## 鸿蒙学习文档
+
+<div  align = center>
+<img src="https://user-images.githubusercontent.com/68420976/121311433-ffaee100-c936-11eb-9656-0ce4dcf81407.png">
+<img src="https://user-images.githubusercontent.com/68420976/121311639-2f5de900-c937-11eb-9188-82e648b0c065.png">
+</div>
+
  **资料获取方式：**
 **+微信：MNxiaona666**
 <div  align = center>
- <img src="https://user-images.githubusercontent.com/68420976/120615212-a0f6ec80-c48a-11eb-9b2f-9aab3d7782a6.png">
+ <img src="https://user-images.githubusercontent.com/68420976/120615212-a0f6ec80-c48a-11eb-9b2f-9aab3d7782a6.png" width=200px>
 </div> 
  
 **[或者加2000人BAT技术交流群；点击群号：[519844232](https://jq.qq.com/?_wv=1027&k=PfQYLFmn), 请备注得知渠道（如知乎、简书、CSDN等）,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半） ]** 
@@ -121,6 +113,12 @@
 
 <div  align = center>
 <img src="https://images.gitee.com/uploads/images/2020/0903/152929_bb135112_8014590.png">
+</div>
+
+## 学习视频
+
+<div  align = center>
+<img src="https://images.gitee.com/uploads/images/2020/0903/150257_bf2e62a3_8014590.png">
 </div>
 
 <div  align = center>
@@ -146,5 +144,5 @@
 
 **+微信：MNxiaona666**
  
-<img src="https://user-images.githubusercontent.com/68420976/120615212-a0f6ec80-c48a-11eb-9b2f-9aab3d7782a6.png">
+<img src="https://user-images.githubusercontent.com/68420976/120615212-a0f6ec80-c48a-11eb-9b2f-9aab3d7782a6.png" width=200px>
 </div>
