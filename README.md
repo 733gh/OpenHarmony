@@ -1,4 +1,4 @@
-# 2021年最新Android架构视频+BAT面试专题PDF+学习笔记+学习路线图
+# 最新Android架构视频+BAT面试专题PDF+学习笔记+学习路线图
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/68420976/129372209-1ac76c1f-b1bc-4c77-82ab-6f75897da3f2.png">
