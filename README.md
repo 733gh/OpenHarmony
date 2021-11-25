@@ -25,10 +25,10 @@
  <img src="https://user-images.githubusercontent.com/68420976/120615212-a0f6ec80-c48a-11eb-9b2f-9aab3d7782a6.png" width=200px>
 </div>
 
-**[或加2000人BAT技术交流群；点击群号：[519844232](https://jq.qq.com/?_wv=1027&k=PfQYLFmn), 请备注得知渠道（如知乎、简书、CSDN等）,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半） ]** 
+**[或加2000人BAT技术交流群；点击群号：[612831951](https://jq.qq.com/?_wv=1027&k=g3xcTESO), 请备注得知渠道（如知乎、简书、CSDN等）,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半） ]** 
 
 <div  align = center>
-<img src="https://user-images.githubusercontent.com/68420976/120616838-24650d80-c48c-11eb-932c-1619605ccf80.png">
+<img src="https://user-images.githubusercontent.com/68420976/143443469-209294e1-697a-4cd7-a3c9-74714aede949.png">
 </div>
 
 ## 1.Android复习资料汇总（核心笔记篇）
@@ -105,10 +105,10 @@
  <img src="https://user-images.githubusercontent.com/68420976/120615212-a0f6ec80-c48a-11eb-9b2f-9aab3d7782a6.png" width=200px>
 </div> 
  
-**[或者加2000人BAT技术交流群；点击群号：[519844232](https://jq.qq.com/?_wv=1027&k=PfQYLFmn), 请备注得知渠道（如知乎、简书、CSDN等）,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半） ]** 
+**[或加2000人BAT技术交流群；点击群号：[612831951](https://jq.qq.com/?_wv=1027&k=g3xcTESO), 请备注得知渠道（如知乎、简书、CSDN等）,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半） ]**
 
 <div  align = center>
-<img src="https://user-images.githubusercontent.com/68420976/120616838-24650d80-c48c-11eb-932c-1619605ccf80.png">
+<img src="https://user-images.githubusercontent.com/68420976/143443397-4b09539e-cceb-44f5-a494-340e3adc140b.png">
 </div>
 
 <div  align = center>
@@ -136,6 +136,7 @@
 
 <div  align = center>
 <img src="https://user-images.githubusercontent.com/68420976/129372810-72cd2a24-c5e0-490a-9c56-024db8cac972.png">
+<img src="https://user-images.githubusercontent.com/68420976/143443640-d6e289a1-de87-44da-a277-795659e8e145.png">
 </div>
  
  **资料获取方式：**
