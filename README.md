@@ -1,149 +1,123 @@
-# 最新Android架构视频+BAT面试专题PDF+学习笔记+学习路线图
+## 鸿蒙星河版(HarmonyOS Next)学习路线+学习文档+面试题
 
-<div align=center>
-<img src="https://user-images.githubusercontent.com/68420976/129372209-1ac76c1f-b1bc-4c77-82ab-6f75897da3f2.png">
-</div>
+**首先开发语言 ArkTS，这个尤为重要，然后就是ArkUI声明式UI开发、Stage模型、网络/数据库管理、分布式应用开发、进程间通信、线程间通信技术、多媒体技术……等北向开发相关的必备技术，再然后就是南向开发方向的系统底层技术。
+由于中间有许多的知识点，这边都以梳理成思维导图的形式了，总共两大部分成了八大专类。**
 
-<p align = center>（目前也还在利用时间不断更新知识点）</p>
+**北向开发内容**：OpenHarmony基础技能、OpenHarmony就业必修技能、OpenHarmony多媒体技术、OpenHarmony高级技能、六大商业级项目驱动教学；
 
-给大家分享的资料包括 **Android学习PDF+架构视频+面试文档+学习笔记，高级架构技术进阶脑图、Android开发面试专题资料，还有高级进阶架构资料** 
+**南向设备开发内容**：鸿蒙Napi组件进阶、初识OpenHarmony内核、实战工业级设备开发
 
-包括但不限于 **【Java、高级UI绘制、源码级分析、内存泄露分析、NDK开发、移动架构师、数据结构和算法、OpenCV打造人脸识别、QQ视频通话核心技术-WebRTC等全方面的Android进阶实践技术等……】** 
+![](https://github.com/733gh/xiongfan/assets/68420976/9439cd8d-63c3-41d2-9056-bf076849fc1b)
 
-希望能帮助大家学习提升进阶，也节省大家在网上搜索资料的时间来学习，也是可以分享给身边好友一起学习的！
+**因图片过大，暂且在这只能放上缩略版了，如需完整版知识路线图学习的可以加小助理V ：**
 
-## 《对标“腾讯70W+"年薪Android高级工程师成长曲线》
+<差异排列=中心>
 
-<div  align = center>
-<img src="https://user-images.githubusercontent.com/68420976/120893785-9d5c9480-c647-11eb-88e5-3e16cc2a5816.png">
-</div>
+**微信扫码获取学习资源，开启你的学习之旅！**
 
-**资料获取方式：**
+![](https://github.com/733gh/xiongfan/assets/68420976/d5cf396b-3cd9-4871-bfba-533176b67281)
 
-**+微信：MNxiaona666**
-<div  align = center>
- <img src="https://user-images.githubusercontent.com/68420976/120615212-a0f6ec80-c48a-11eb-9b2f-9aab3d7782a6.png" width=200px>
-</div>
+**扫码添加小助理V，记得备注好：“鸿蒙+某自媒体渠道名”  如：知乎、B站、CSDN……等**
 
-**[或加2000人BAT技术交流群；点击群号：[612831951](https://jq.qq.com/?_wv=1027&k=g3xcTESO), 请备注得知渠道（如知乎、简书、CSDN等）,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半） ]** 
+</差异>
 
-<div  align = center>
-<img src="https://user-images.githubusercontent.com/68420976/143443469-209294e1-697a-4cd7-a3c9-74714aede949.png">
-</div>
+> ①全方位，更合理的学习路径：
+>路线图包括ArkTS基础语法、鸿蒙应用APP开发、鸿蒙能力集APP开发、次开发多端部署开发、物联网开发等九大模块，六大实战项目贯穿始终，由浅入深，层层递进，深入理解鸿蒙开发原理！
+>
+>②多层次，更多的鸿蒙原生应用：
+>路线图将包含完全基于鸿蒙内核开发的应用，比如一次开发多端部署、自由流转、元服务、端云一体化等，多方位的学习内容让学生能够高效掌握鸿蒙开发，少走弯路，真正理解并应用鸿蒙的核心技术和理念。
+>
+>③实战化，更贴合企业需求的技术点：
+>学习路线图中的每一个技术点都能够紧贴企业需求，经过多次真实实践，每一个知识点、每一个项目，都是码牛课堂鸿蒙研发团队精心打磨和深度解析的成果，注重对学生的细致教学，每一步都确保学生能够真正理解和掌握。
 
-## 1.Android复习资料汇总（核心笔记篇）
+有了鸿蒙开发学习路线，自然学习文档也是少不了的，**耗时一星期整理出了 《鸿蒙(Harmony OS)应用开发》（共计892页）的学习手册**
 
-<div  align = center>
-<img src="https://user-images.githubusercontent.com/68420976/129316602-e1defe9d-0f2d-4a68-9977-0cf9c779dec4.png">
-</div>
+## 《鸿蒙开发学习手册》： 
+### 入门必看： 
+1. 应用开发导读(ArkTS)
+2. ……
+![](https://github.com/733gh/xiongfan/assets/68420976/496313a5-1e97-4e70-a1a3-e75360885dae)
 
-## 2. Android 架构师必备
+### HarmonyOS 概念： 
+1. 系统定义
+2. 技术架构
+3. 技术特性
+4. 系统安全
 
-<div  align = center>
-<img src="https://user-images.githubusercontent.com/68420976/129313140-f8facc69-12e4-476d-83ec-ab18058c3501.png">
-</div>
+![](https://github.com/733gh/xiongfan/assets/68420976/afe17834-5318-47f6-94be-9d374906de53)
 
-## 3. Android面试指导
+<差异排列=中心>
 
-<div  align = center>
-<img src="https://user-images.githubusercontent.com/68420976/129372341-8d2e3c79-9833-4ccb-9688-bc26cb0369ae.png">
-</div>
+  **微信扫码获取学习资源，开启你的学习之旅！**
 
-## 4.Jetpack 全家桶
+![](https://github.com/733gh/xiongfan/assets/68420976/d5cf396b-3cd9-4871-bfba-533176b67281)
 
-<div  align = center>
-<img src="https://user-images.githubusercontent.com/68420976/129313318-557bd806-63d7-4209-b8f0-7555d6477d52.png">
-</div>
+**扫码添加小助理V，记得备注好：“鸿蒙+某自媒体渠道名”  如：知乎、B站、CSDN……等**
 
-## 5.APP性能优化手册
-<div  align = center>
-<img src="https://user-images.githubusercontent.com/68420976/129313477-a4477702-ad6b-45aa-8fc1-f88c62bedb83.png">
-</div>
+</差异>
 
- **资料获取方式：**
-**+：MNxiaona666**
-<div  align = center>
- <img src="https://user-images.githubusercontent.com/68420976/120615212-a0f6ec80-c48a-11eb-9b2f-9aab3d7782a6.png" width=200px>
-</div> 
+### 如何快速入门： 
 
-## 6.Android Framework精编内核解析
+1. 基本概念
+2. 构建第一个ArkTS应用
+3. ……
 
-<div  align = center>
-<img src="https://user-images.githubusercontent.com/68420976/129313665-62574c06-330b-4ebf-8698-4b5eb60e2418.png">
-</div>
+![](https://github.com/733gh/xiongfan/assets/68420976/5d839581-2eef-46c3-85a4-e06f930e10e5)
 
-## 7.Android 音视频开发入门到实战
-<div  align = center>
-<img src="https://user-images.githubusercontent.com/68420976/129316102-454a62fb-65d7-4002-8d41-7153e692cd10.png">
-</div>
+### 开发基础知识： 
 
-## 8.项目开发底层必备技术
-<div  align = center>
-<img src="https://user-images.githubusercontent.com/68420976/129314822-c33d65ee-2ef3-4159-9da4-bdb0fbf388ce.png">
-</div>
+1. 应用基础知识
+2. 配置文件
+3. 应用数据管理
+4. 应用安全管理
+5. 应用隐私保护
+6. 三方应用调用管控机制
+7. 资源分类与访问
+8. 学习ArkTS语言
+9. ……
 
-## 9.Kotlin从零到精通Android开发
-<div  align = center>
-<img src="https://user-images.githubusercontent.com/68420976/129314968-a393818f-f13e-4646-ac18-f229fb0e6d43.png">
-</div>
+![](https://github.com/733gh/xiongfan/assets/68420976/0878a752-d614-47c1-8bef-9e8eca11a47d)
 
-## 10. Flutter 完整开发实战详解
-<div  align = center>
-<img src="https://user-images.githubusercontent.com/68420976/129315708-3f098221-7b14-4761-a5d2-4c1fa53b7544.png">
-</div>
+<差异排列=中心>
 
-## 鸿蒙学习文档
+  **微信扫码获取学习资源，开启你的学习之旅！**
 
-<div  align = center>
-<img src="https://user-images.githubusercontent.com/68420976/121311433-ffaee100-c936-11eb-9656-0ce4dcf81407.png">
-<img src="https://user-images.githubusercontent.com/68420976/121311639-2f5de900-c937-11eb-9188-82e648b0c065.png">
-</div>
+![](https://github.com/733gh/xiongfan/assets/68420976/d5cf396b-3cd9-4871-bfba-533176b67281)
 
- **资料获取方式：**
-**+微信：MNxiaona666**
-<div  align = center>
- <img src="https://user-images.githubusercontent.com/68420976/120615212-a0f6ec80-c48a-11eb-9b2f-9aab3d7782a6.png" width=200px>
-</div> 
- 
-**[或加2000人BAT技术交流群；点击群号：[612831951](https://jq.qq.com/?_wv=1027&k=g3xcTESO), 请备注得知渠道（如知乎、简书、CSDN等）,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半） ]**
+**扫码添加小助理V，记得备注好：“鸿蒙+某自媒体渠道名”  如：知乎、B站、CSDN……等**
+</差异>
 
-<div  align = center>
-<img src="https://user-images.githubusercontent.com/68420976/143443397-4b09539e-cceb-44f5-a494-340e3adc140b.png">
-</div>
+### 基于ArkTS 开发： 
 
-<div  align = center>
-<img src="https://user-images.githubusercontent.com/68420976/129372460-697f3434-b323-4947-9800-07960762cb3b.png">
-</div>
+1. Ability开发
+2. UI开发
+3. 公共事件与通知
+4. 窗口管理
+5. 媒体
+6. 安全
+7. 网络与链接
+8. 电话服务
+9. 数据管理
+10. 后台任务(Background Task)管理
+11. 设备管理
+12. 设备使用信息统计
+13. DFX
+14. 国际化开发
+15. 折叠屏系列
+16. ……
 
-## 学习视频
+![](https://github.com/733gh/xiongfan/assets/68420976/e8c8032e-11b0-4937-9190-d2784677b838)
 
-<div  align = center>
-<img src="https://user-images.githubusercontent.com/68420976/129372529-8b3cb944-7d01-47d4-9ecc-4dcfe24a27b8.png">
-</div>
+### 鸿蒙开发面试真题（含参考答案）：
 
-<div  align = center>
-<img src="https://user-images.githubusercontent.com/68420976/129372808-f90e9cfb-1a91-473c-a0bd-5d4dd01583fd.png">
-<img src="https://upload-images.jianshu.io/upload_images/16810022-480134fc915f32cb.png?imageMogr2/auto-orient/strip|imageView2/2/w/860/format/webp">
-<img src="https://upload-images.jianshu.io/upload_images/16810022-907aae3b0f8dbe4d.png?imageMogr2/auto-orient/strip|imageView2/2/format/webp">
-</div>
-<div  align = center>
-<img src="https://user-images.githubusercontent.com/68420976/129373018-bc3c1615-1799-4967-baed-90f664cb698e.png">
-</div>
+![](https://github.com/733gh/xiongfan/assets/68420976/9e12aa9c-05db-4b92-bfa5-f24bfb636ed3)
 
-<div  align = center>
-<img src="https://user-images.githubusercontent.com/68420976/129372809-eb318e22-840c-473c-a7cb-19fc65b24e34.png">
-</div>
+<差异排列=中心>
 
-<div  align = center>
-<img src="https://user-images.githubusercontent.com/68420976/129372810-72cd2a24-c5e0-490a-9c56-024db8cac972.png">
-<img src="https://user-images.githubusercontent.com/68420976/143443640-d6e289a1-de87-44da-a277-795659e8e145.png">
-</div>
- 
- **资料获取方式：**
+  **微信扫码获取学习资源，开启你的学习之旅!**
 
-<div  align = center>
+![](https://github.com/733gh/xiongfan/assets/68420976/d5cf396b-3cd9-4871-bfba-533176b67281)
 
-**+微信：MNxiaona666**
- 
-<img src="https://user-images.githubusercontent.com/68420976/120615212-a0f6ec80-c48a-11eb-9b2f-9aab3d7782a6.png" width=200px>
-</div>
+**扫码添加小助理V，记得备注好：“鸿蒙+某自媒体渠道名”  如：知乎、B站、CSDN……等**
+
+</差异>
